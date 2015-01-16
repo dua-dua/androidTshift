@@ -2,25 +2,25 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\dua\Desktop\Parse Android\ParseStarterProject\libs\ParseCrashReporting-1.8.1.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="01cd6a9702d4fdba38c93426da8f2fffc738e107">
-        <dex dex="C:\Users\dua\Desktop\Parse Android\ParseStarterProject\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.8.1-5a040d33ae6864eb4ef35ffec46979703f9c598d.jar" />
-    </item>
-    <item
         jar="C:\Users\dua\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
         jumboMode="false"
         revision="21.1.1"
         sha1="129874135e6081269ace2312092031558865de12">
-        <dex dex="C:\Users\dua\Desktop\Parse Android\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-f770f56a4ac537f49acc63e9fb9b0f99def5e135.jar" />
+        <dex dex="C:\Users\dua\Documents\GitHub\androidTshift\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-f770f56a4ac537f49acc63e9fb9b0f99def5e135.jar" />
     </item>
     <item
-        jar="C:\Users\dua\Desktop\Parse Android\ParseStarterProject\libs\Parse-1.8.1.jar"
+        jar="C:\Users\dua\Documents\GitHub\androidTshift\ParseStarterProject\libs\Parse-1.8.1.jar"
         jumboMode="false"
         revision="21.1.1"
         sha1="dd491448169a0c142a786164b249139d2407a6f9">
-        <dex dex="C:\Users\dua\Desktop\Parse Android\ParseStarterProject\build\intermediates\pre-dexed\debug\Parse-1.8.1-cfd0bdaff26956d56e67fb08d17b4af58e0ec48c.jar" />
+        <dex dex="C:\Users\dua\Documents\GitHub\androidTshift\ParseStarterProject\build\intermediates\pre-dexed\debug\Parse-1.8.1-d06a0edb7cd219ac1c747b359204c3945671cc52.jar" />
+    </item>
+    <item
+        jar="C:\Users\dua\Documents\GitHub\androidTshift\ParseStarterProject\libs\ParseCrashReporting-1.8.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01cd6a9702d4fdba38c93426da8f2fffc738e107">
+        <dex dex="C:\Users\dua\Documents\GitHub\androidTshift\ParseStarterProject\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.8.1-0b90787540f2fa6f122c69f1b26cb7344e17cebc.jar" />
     </item>
 
 </items>

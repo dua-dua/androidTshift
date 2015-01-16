@@ -1,4 +1,4 @@
-C:\Users\dua\Desktop\Parse Android\ParseStarterProject\build\intermediates\classes\debug
-C:\Users\dua\Desktop\Parse Android\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-f770f56a4ac537f49acc63e9fb9b0f99def5e135.jar
-C:\Users\dua\Desktop\Parse Android\ParseStarterProject\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.8.1-5a040d33ae6864eb4ef35ffec46979703f9c598d.jar
-C:\Users\dua\Desktop\Parse Android\ParseStarterProject\build\intermediates\pre-dexed\debug\Parse-1.8.1-cfd0bdaff26956d56e67fb08d17b4af58e0ec48c.jar
+C:\Users\dua\Documents\GitHub\androidTshift\ParseStarterProject\build\intermediates\classes\debug
+C:\Users\dua\Documents\GitHub\androidTshift\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-f770f56a4ac537f49acc63e9fb9b0f99def5e135.jar
+C:\Users\dua\Documents\GitHub\androidTshift\ParseStarterProject\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.8.1-0b90787540f2fa6f122c69f1b26cb7344e17cebc.jar
+C:\Users\dua\Documents\GitHub\androidTshift\ParseStarterProject\build\intermediates\pre-dexed\debug\Parse-1.8.1-d06a0edb7cd219ac1c747b359204c3945671cc52.jar
